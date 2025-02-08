@@ -64,8 +64,8 @@
       data:
         entity_id:
           - light.kitchen_zone
-          - light.main_area
-        brightness_pct: 45  # set brightness to 35%
+          - light.living_room_lamp
+        brightness_pct: 35  # set brightness to 35%
         transition: 15  # 30 second fade up
   mode: single
 
