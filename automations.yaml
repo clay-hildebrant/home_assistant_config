@@ -1,4 +1,3 @@
-#test 2
 - alias: Turn Off Lights on Plex Play
   trigger:
     - platform: webhook
